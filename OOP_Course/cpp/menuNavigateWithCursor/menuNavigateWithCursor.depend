@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1729600048 source:e:\iti\cpp\menunavigatewithcursor\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+

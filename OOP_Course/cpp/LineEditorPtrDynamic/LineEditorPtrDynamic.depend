@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1730621298 source:e:\iti\labs\oop_course\cpp\lineeditorptrdynamic\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+

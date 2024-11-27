@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1729497608 source:e:\iti\cpp\seconddegreeequation\main.cpp
+	<iostream>
+	<math.h>
+

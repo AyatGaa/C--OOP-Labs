@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1730810186 source:e:\iti\labs\oop_course\oop\studentclassstatic\main.cpp
+	<iostream>
+	<string.h>
+

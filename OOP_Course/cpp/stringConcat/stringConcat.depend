@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1729680740 source:e:\iti\oop_course\cpp\stringconcat\main.cpp
+	<iostream>
+	<string.h>
+

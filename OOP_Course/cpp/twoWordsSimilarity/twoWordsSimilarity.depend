@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1729684039 source:e:\iti\oop_course\cpp\twowordssimilarity\main.cpp
+	<iostream>
+	<string.h>
+
